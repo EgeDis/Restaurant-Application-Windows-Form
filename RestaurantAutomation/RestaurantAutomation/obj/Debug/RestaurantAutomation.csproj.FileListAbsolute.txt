@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\RestaurantAutomation\RestaurantAutomation\bin\Debug\RestaurantAutomation.exe.config
+C:\Users\User\source\repos\RestaurantAutomation\RestaurantAutomation\bin\Debug\RestaurantAutomation.exe
+C:\Users\User\source\repos\RestaurantAutomation\RestaurantAutomation\bin\Debug\RestaurantAutomation.pdb
+C:\Users\User\source\repos\RestaurantAutomation\RestaurantAutomation\obj\Debug\RestaurantAutomation.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\RestaurantAutomation\RestaurantAutomation\obj\Debug\RestaurantAutomation.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\RestaurantAutomation\RestaurantAutomation\obj\Debug\RestaurantAutomation.Form1.resources
+C:\Users\User\source\repos\RestaurantAutomation\RestaurantAutomation\obj\Debug\RestaurantAutomation.Properties.Resources.resources
+C:\Users\User\source\repos\RestaurantAutomation\RestaurantAutomation\obj\Debug\RestaurantAutomation.csproj.GenerateResource.cache
+C:\Users\User\source\repos\RestaurantAutomation\RestaurantAutomation\obj\Debug\RestaurantAutomation.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\RestaurantAutomation\RestaurantAutomation\obj\Debug\RestaurantAutomation.exe
+C:\Users\User\source\repos\RestaurantAutomation\RestaurantAutomation\obj\Debug\RestaurantAutomation.pdb
+C:\Users\User\source\repos\RestaurantAutomation\RestaurantAutomation\obj\Debug\RestaurantAutomation.RestaurantTables.resources
+C:\Users\User\source\repos\RestaurantAutomation\RestaurantAutomation\obj\Debug\RestaurantAutomation.RestaurantMenu.resources
